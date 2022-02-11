@@ -1,0 +1,21 @@
+{
+    "name": "nightfall-theme",
+    "displayName": "Nightfall Theme",
+    "description": "Nightfall Theme",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Nightfall",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Nightfall-color-theme.json"
+            }
+        ]
+    }
+}
