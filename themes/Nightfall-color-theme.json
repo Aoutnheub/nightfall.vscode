@@ -476,7 +476,7 @@
                 "support.type.fx.hlsl",
                 "support.type.object.hlsl",
                 "constant.regexp.xi",
-                "entity.name",
+                "entity.name"
             ],
             "settings": {
                 "foreground": "#d3869b"
@@ -495,7 +495,7 @@
             "settings": {
                 "foreground": "#756a5d"
             }
-        },
+        }
     ],
     "colors": {
         "foreground": "#d4be98",
@@ -699,7 +699,7 @@
         "editorSuggestWidget.background": "#242424",
         "editorSuggestWidget.border": "#47423e",
         "editorSuggestWidget.foreground": "#d4be98",
-        "editorSuggestWidget.highlightForeground": "#d3869b",
+        "editorSuggestWidget.highlightForeground": "#5b5248",
         "editorSuggestWidget.selectedBackground": "#242424",
         "editorHoverWidget.foreground": "#d4be98",
         "editorHoverWidget.background": "#242424",
