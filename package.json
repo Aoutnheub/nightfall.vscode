@@ -3,6 +3,7 @@
     "displayName": "Nightfall Theme",
     "description": "Nightfall Theme",
     "version": "1.0.0",
+    "repository": {"url": "https://github.com/Aoutnheub/nightfall.vscode"},
     "engines": {
         "vscode": "^1.63.0"
     },
